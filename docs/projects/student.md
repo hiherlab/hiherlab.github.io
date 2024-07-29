@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Current Projects
+title: Student Projects
 parent: Projects
 nav_order: 1
 ---
