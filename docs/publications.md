@@ -1,0 +1,78 @@
+---
+layout: default
+title: Publications
+nav_order: 3
+---
+
+# Publications
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+## 2024
+- Wan, T., Shi, R., Xu, W., **Li, Y.,** Atkinson, K., Yu, L., & Liang, H.-N. (2024). Hands-free multi-type character text entry in virtual reality. Virtual Reality, 28(1), 8. DOI: [10.1007/s10055-023-00902-z](https://doi.org/10.1007/s10055-023-00902-z)
+- Yao, H., Zhao, L., Liang, H.-N., Liu, Y., **Li, Y.**, & Yu, L. (2024). Exploring Embodied Asymmetric Two-Handed Interactions for Immersive Data Exploration. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 1–10. DOI: [10.1145/3613905.3650777](https://doi.org/10.1145/3613905.3650777)
+- He, S., Yao, H., Jiang, L., Li, K., Xiang, N., **Li, Y.**, Liang, H.-N., & Yu, L. (2024). Data Cubes in Hand: A Design Space of Tangible Cubes for Visualizing 3D Spatio-Temporal Data in Mixed Reality. Proceedings of the CHI Conference on Human Factors in Computing Systems, 1–21. DOI: [10.1145/3613904.3642740](https://doi.org/10.1145/3613904.3642740)
+- Xia, X., **Li, Y.*,** & Liang, H.-N. (2024). Covisit VM : Cross-Reality Virtual Museum Visiting. 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 1074–1075. DOI: [10.1109/VRW62533.2024.00333](https://doi.org/10.1109/VRW62533.2024.00333)
+- Liang, J., **Li, Y.*,** Wang, X., Zhao, Z., & Liang, H.-N. (2024). MemoryVR: Collecting and Sharing Memories in Personal Virtual Museums. 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 1021–1022. DOI: [10.1109/VRW62533.2024.00307](https://doi.org/10.1109/VRW62533.2024.00307)
+- Song, J., Shi, R., **Li, Y.,** Gao, B., & Liang, H.-N. (2024). Exploring Controller-based Techniques for Precise and Rapid Text Selection in Virtual Reality. 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), 244–253. DOI: [10.1109/VR58804.2024.00047](https://doi.org/10.1109/VR58804.2024.00047)
+- Wang, X., **Li, Y.*,** & Liang, H.-N. (2024). MagicMap: Enhancing Indoor Navigation Experience in VR Museums. 2024 IEEE Conference Virtual Reality and 3D User Interfaces (VR), 881–891. DOI: [10.1109/VR58804.2024.00107](https://doi.org/10.1109/VR58804.2024.00107)
+
+## 2023
+- Xu, N., **Li, Y.*,** Wei, X., Xie, L., Yu, L., & Liang, H.-N. (2023). CubeMuseum AR: A Tangible Augmented Reality Interface for Cultural Heritage Learning and Museum Gifting. International Journal of Human–Computer Interaction, 40(6), 1409–1437. DOI: [10.1080/10447318.2023.2171350](https://doi.org/10.1080/10447318.2023.2171350)
+- **Li, Y.*,** Ch’ng, E., & Cobb, S. (2023). Factors Influencing Engagement in Hybrid Virtual and Augmented Reality. ACM Transactions on Computer-Human Interaction, 30(4), 1–27. DOI: [10.1145/3589952](https://doi.org/10.1145/3589952)
+- Shuai, K., **Li, Y.*,** & Liang, H.-N. (2023). Effects of Object Complexity in Occlusion, Structure, and Texture on 3D Virtual Object Observation in Virtual Reality. 2023 Asia Conference on Cognitive Engineering and Intelligent Interaction (CEII), 24–28. DOI: [10.1109/CEII60565.2023.00013](https://doi.org/10.1109/CEII60565.2023.00013)
+- Li, Y., **Li, Y.*,** Liang, J., & Liang, H.-N. (2023). Easy Induction: A Serious Game Using Participatory Design. In H. P. Da Silva & P. Cipresso (Eds.), Computer-Human Interaction Research and Applications (Vol. 1997, pp. 192–211). Springer Nature Switzerland. DOI: [10.1007/978-3-031-49368-3_12](https://doi.org/10.1007/978-3-031-49368-3_12)
+- Huang, T., **Li, Y.*,** & Liang, H.-N. (2023). Avatar Type, Self-Congruence, and Presence in Virtual Reality. Proceedings of the Eleventh International Symposium of Chinese CHI, 61–72. DOI: [10.1145/3629606.3629614](https://doi.org/10.1145/3629606.3629614)
+- Chen, B., Long, J., Zheng, W., Wu, Y., Li, Z., **Li, Y.,** & Liang, H.-N. (2023). AR.S.Space: An AR Casual Game for Social Engagement in Work Environments. 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 842–847. DOI: [10.1109/ISMAR-Adjunct60411.2023.00185](https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00185)
+- Xia, X., Liang, J., Zhao, R., Zhao, Z., Wu, M., **Li, Y.*,** & Liang, H.-N. (2023). Cross-Reality Interaction and Collaboration in Museums, Education, and Rehabilitation. 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 815–820. DOI: [10.1109/ISMAR-Adjunct60411.2023.00180](https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00180)
+- Shi, R., Wei, Y., **Li, Y,** Yu, L., & Liang, H.-N. (2023). Expanding Targets in Virtual Reality Environments: A Fitts’ Law Study. 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 615–618. DOI: [10.1109/ISMAR-Adjunct60411.2023.00132](https://doi.org/10.1109/ISMAR-Adjunct60411.2023.00132)
+- Wang, Y., **Li, Y.*,** & Liang, H.-N. (2023). Comparative Analysis of Artefact Interaction and Manipulation Techniques in VR Museums: A Study of Performance and User Experience. 2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 761–770. DOI: [10.1109/ISMAR59233.2023.00091](https://doi.org/10.1109/ISMAR59233.2023.00091)
+- Zhao, Z., **Li, Y.*,** & Liang, H.-N. (2023). LeanOn: Simulating Balance Vehicle Locomotion in Virtual Reality. 2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 415–424. DOI: [10.1109/ISMAR59233.2023.00056](https://doi.org/10.1109/ISMAR59233.2023.00056)
+- **Li, Y.*,** Liang, J., Zhou, Y., Zhang, C., Yue, Y., & Liang, H.-N. (2023). Understanding the Needs of Virtual Reality for Learning and Teaching: A User-Centered Approach. 2023 3rd International Conference on Educational Technology (ICET), 7–11. DOI: [10.1109/ICET59358.2023.10424148](https://doi.org/10.1109/ICET59358.2023.10424148)
+- Qiu, F., & **Li, Y.\*** (2023). Interactive Visualization of Sport Climbing Data. In J. Abdelnour Nocera, M. Kristín Lárusdóttir, H. Petrie, A. Piccinno, & M. Winckler (Eds.), Human-Computer Interaction – INTERACT 2023 (Vol. 14145, pp. 507–511). Springer Nature Switzerland. DOI: [10.1007/978-3-031-42293-5_63](https://doi.org/10.1007/978-3-031-42293-5_63)
+- Xu, G., Su, G., Fang, H., & **Li, Y.\*** (2023). Enabling Transcranial Electrical Stimulation via STI01: Experimental Simulations and Hardware Circuit Implementation. 2023 5th International Conference on Electronic Engineering and Informatics (EEI), 122–126. DOI: [10.1109/EEI59236.2023.10212634](https://doi.org/10.1109/EEI59236.2023.10212634)
+- Fu, Y., & **Li, Y.\*** (2023). Hanfu AR: Digital Twins of Traditional Chinese Costumes for Augmented Reality Try-On Systems. 2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC), 1465–1470. DOI: [10.1109/COMPSAC57700.2023.00225](https://doi.org/10.1109/COMPSAC57700.2023.00225)
+- Liu, Y., Zhang, Z., Pan, Y., **Li, Y.,** Liang, H.-N., Craig, P., & Yu, L. (2023). A Study of Zooming, Interactive Lenses and Overview+Detail Techniques in Collaborative Map-based Tasks. 2023 IEEE 16th Pacific Visualization Symposium (PacificVis), 11–20. DOI: [10.1109/PacificVis56936.2023.00009](https://doi.org/10.1109/PacificVis56936.2023.00009)
+- Xu, N., Liang, J., Shuai, K., **Li, Y,** & Yan, J. (2023). HeritageSite AR: An Exploration Game for Quality Education and Sustainable Cultural Heritage. Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems, 1–8. DOI: [10.1145/3544549.3583837](https://doi.org/10.1145/3544549.3583837)
+- Wei, Y., Shi, R., Yu, D., Wang, Y., **Li, Y,** Yu, L., & Liang, H.-N. (2023). Predicting Gaze-based Target Selection in Augmented Reality Headsets based on Eye and Head Endpoint Distributions. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 1–14. DOI: [10.1145/3544548.3581042](https://doi.org/10.1145/3544548.3581042)
+- Chai, K., **Li, Y.*,** Yu, L., & Liang, H.-N. (2023). HapticBox: Designing Hand-Held Thermal, Wetness, and Wind Stimuli for Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 873–874. DOI: [10.1109/VRW58643.2023.00279](https://doi.org/10.1109/VRW58643.2023.00279)
+- Zhao, Z., **Li, Y.*,** Yu, L., & Lianq, H.-N. (2023). TeleSteer: Combining Discrete and Continuous Locomotion Techniques in Virtual Reality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 755–756. DOI: [10.1109/VRW58643.2023.00220](https://doi.org/10.1109/VRW58643.2023.00220)
+- Zhang, S., **Li, Y.*,** Man, K. L., Yue, Y., & Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 330–337. DOI: [10.1109/VRW58643.2023.00075](https://doi.org/10.1109/VRW58643.2023.00075)
+- Wei, X., & **Li, Y.\*** (2023). Evaluating User Performance, Workload, and Presence of Virtual Reality Questionnaires Using Joystick and Raycasting Selection Techniques. Proceedings of the 2023 7th International Conference on Virtual and Augmented Reality Simulations, 29–34. DOI: [10.1145/3603421.3603426](https://doi.org/10.1145/3603421.3603426)
+
+## 2022
+- **Li, Y.*,** & Ch’ng, E. (2022). A Framework for Sharing Cultural Heritage Objects in Hybrid Virtual and Augmented Reality Environments. In E. Ch’ng, H. Chapman, V. Gaffney, & A. S. Wilson (Eds.), Visual Heritage: Digital Approaches in Heritage Science (pp. 471–492). Springer International Publishing. DOI: [10.1007/978-3-030-77028-0_23](https://doi.org/10.1007/978-3-030-77028-0_23)
+- Wu, Z., Shi, R., Li, Z., Jiang, M., **Li, Y.,** Yu, L., & Liang, H.-N. (2022). Examining cross-modal correspondence between ambient color and taste perception in virtual reality. Frontiers in Virtual Reality, 3, 1056782. DOI: [10.3389/frvir.2022.1056782](https://doi.org/10.3389/frvir.2022.1056782)
+- Monteiro, D., Ma, T., **Li, Y.,** Pan, Z., & Liang, H.-N. (2022). Cross-cultural factors influencing the adoption of virtual reality for practical learning. Universal Access in the Information Society. DOI: [10.1007/s10209-022-00947-y](https://doi.org/10.1007/s10209-022-00947-y)
+- **Li, Y.*,** Tin, S. P., & Reis, C. (2022). Student Engagement in Software Engineering Group Projects: An Action Research Study. Proceedings of the 2022 5th International Conference on Education Technology Management, 367–374. DOI: [10.1145/3582580.3582643](https://doi.org/10.1145/3582580.3582643)
+- Xia, X., Jiang, G., **Li, Y.*,** & Liang, H.-N. (2022). ChemistryVR: Simulating Chemistry Experiments in Virtual Laboratories. 2022 IEEE International Conference on Virtual Reality and Visualization (ICVRV).
+- Zhou, Y., Chen, J., Wang, Y., **Li, Y.*,** Zhang, C., Yue, Y., & Liang, H.-N. (2022). Exploratory 3D Virtual Classrooms for Online Learning and Teaching. 2022 IEEE International Conference on Virtual Reality and Visualization (ICVRV).
+- Hou, Y., Liu, Y., Wang, H., Zhang, Z., **Li, Y.,** Liang, H.-N., & Yu, L. (2022). DARC: A Visual Analytics System for Multivariate Applicant Data Aggregation, Reasoning and Comparison. Pacific Graphics Short Papers, Posters, and Work-in-Progress Papers, 57–62. DOI: [10.2312/PG.20221248](https://doi.org/10.2312/PG.20221248)
+- Xu, N., **Li, Y.*,** Lin, J., Yu, L., & Liang, H.-N. (2022). User Retention of Mobile Augmented Reality for Cultural Heritage Learning. 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 447–452. DOI: [10.1109/ISMAR-Adjunct57072.2022.00095](https://doi.org/10.1109/ISMAR-Adjunct57072.2022.00095)
+- Chai, K., & **Li, Y.* (2022)**. Cultural Heritage Assets Optimization Workflow for Interactive System Development. 2022 IEEE 46th Annual Computers, Software, and Applications Conference (COMPSAC), 1822–1827. DOI: [10.1109/COMPSAC54236.2022.00290](https://doi.org/10.1109/COMPSAC54236.2022.00290)
+- **Li, Y.*,** Tin, S. P., & Reis, C. (2022). Student Engagement in Software Engineering Group Projects: An Action Research Study. Proceedings of the 2022 IEEE 2nd International Conference on Education Technology, 265–269. DOI: [10.1145/3582580.3582643](https://doi.org/10.1145/3582580.3582643)
+
+## 2021
+- **Li, Y,** Ch’ng, E., Cobb, S., & See, S. (2021). Presence and Communication in Hybrid Virtual and Augmented Reality Environments. PRESENCE: Virtual and Augmented Reality, 29–52. DOI: [10.1162/pres_a_00340](https://doi.org/10.1162/pres_a_00340)
+- Chen, L., Liu, Y., **Li, Y.,** Yu, L., Gao, B., Caon, M., Yue, Y., & Liang, H.-N. (2021). Effect of Visual Cues on Pointing Tasks in Co-located Augmented Reality Collaboration. Symposium on Spatial User Interaction, 1–12. DOI: [10.1145/3485279.3485297](https://doi.org/10.1145/3485279.3485297)
+- **Li, Y.*,** Yu, L., & Liang, H.-N. (2021). CubeMuseum: An Augmented Reality Prototype of Embodied Virtual Museum. 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), 13–17. DOI: [10.1109/ISMAR-Adjunct54149.2021.00014](https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00014)
+
+## 2020
+- Ch’ng, E., **Li, Y,** Cai, S., & Leow, F.-T. (2020). The Effects of VR Environments on the Acceptance, Experience, and Expectations of Cultural Heritage Learning. Journal on Computing and Cultural Heritage, 13(1), 1–21. DOI: [10.1145/3352933](https://doi.org/10.1145/3352933)
+- **Li, Y.*,** Sun, Q., Zhang, C., Lim, E. G., Liang, H., & Yue, Y. (2020). Digital Campus with Virtual Reality: from Immersive Visualization to Interactive Experience. (Outstanding Paper Third Prize). CCSAT’20, 1–7.
+
+## 2019
+- **Li, Y.*,** Ma, T., & Ch’ng, E. (2019). Enhancing VR Experiential Learning through the Design of Embodied Interaction in a Shared Virtual Environment. [https://aisel.aisnet.org/pacis2019/185/](https://aisel.aisnet.org/pacis2019/185/)
+- **Li, Y.*,** Tennent, P., & Cobb, S. (2019). Appropriate Control Methods for Mobile Virtual Exhibitions. In M. Duguleană, M. Carrozzino, M. Gams, & I. Tanea (Eds.), VR Technologies in Cultural Heritage (Vol. 904, pp. 165–183). Springer International Publishing. DOI: [10.1007/978-3-030-05819-7_13](https://doi.org/10.1007/978-3-030-05819-7_13)
+
+## 2018
+- Cai, S., Ch’ng, E., & **Li, Y.** (2018). A Comparison of the Capacities of VR and 360-Degree Video for Coordinating Memory in the Experience of Cultural Heritage. 2018 3rd Digital Heritage International Congress (DigitalHERITAGE) Held Jointly with 2018 24th International Conference on Virtual Systems & Multimedia (VSMM 2018), 1–4. DOI: [10.1109/DigitalHeritage.2018.8810127](https://doi.org/10.1109/DigitalHeritage.2018.8810127)
+- **Li, Y.*,** Ch’ng, E., Cai, S., & See, S. (2018). Multiuser Interaction with Hybrid VR and AR for Cultural Heritage Objects. 2018 3rd Digital Heritage International Congress (DigitalHERITAGE) Held Jointly with 2018 24th International Conference on Virtual Systems & Multimedia (VSMM 2018), 1–8. DOI: [10.1109/DigitalHeritage.2018.8810126](https://doi.org/10.1109/DigitalHeritage.2018.8810126)
+- **Li, Y.*,** Tennent, P., & Cobb, S. (2018). Appropriate Control Methods for Mobile Virtual Exhibitions. In VR Technologies in Cultural Heritage. DOI: [10.1007/978-3-030-05819-7_13](https://doi.org/10.1007/978-3-030-05819-7_13)
