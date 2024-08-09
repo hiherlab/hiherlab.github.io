@@ -73,4 +73,4 @@ Here's what's happening in the lab right now.
 
 ----
 
-[Dr Yue Li]: https://imyueli.github.io
+[Dr Yue Li]: https://imyueli.github.io/

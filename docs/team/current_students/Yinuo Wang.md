@@ -1,0 +1,5 @@
+---
+people: Yinuo Wang
+degree: ??? ???
+website: null
+---
