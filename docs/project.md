@@ -5,7 +5,7 @@ nav_order: 2
 ---
 
 # Projects
-[All](/docs/project.html){: .btn }
+[All](/docs/project.html){: .btn .btn-purple }
 [Heritage](/docs/project_heritage.html){: .btn }
 [Edutainment](/docs/project_edutainment.html){: .btn }
 [VR](/docs/project_vr.html){: .btn }
@@ -19,7 +19,7 @@ nav_order: 2
 <div class="container">
 {% for project in filtered_projects %}
 <a href="{{ project.url }}" class="content"> 
-    <img src="projects/project_pictures/{{ project.title | append: ".png" }}" alt="{{ project.title }}">
+    <img src="projects/project_pictures/{{ project.name | replace: ".md", ".png" }}" alt="{{ project.title }}">
     <p class="title">{{ project.title }}</p> 
     <p class="tags">{% for tag in project.tags %}
             {{ tag }}{% unless forloop.last %}, {% endunless %}
@@ -47,15 +47,19 @@ nav_order: 2
     }
     .title {
          font-weight: bold;
-         margin-top: 3px;
+        text-align: center;
+         margin-top: 5px;
          margin-bottom: 0;
+        max-width: 300px;
+        word-wrap: break-word;
+        line-height: 1.3;
    }
     .tags {
          font-size: small;
+
          margin-top: 0;
          margin-bottom: 1px;
         max-width: 300px;
         word-wrap: break-word;
-        line-height: 1;
     }
 </style>

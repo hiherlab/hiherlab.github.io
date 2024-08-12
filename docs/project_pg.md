@@ -11,7 +11,7 @@ nav_exclude: true
 [VR](/docs/project_vr.html){: .btn }
 [AR](/docs/project_ar.html){: .btn }
 [PhD](/docs/project_phd.html){: .btn }
-[PG](/docs/project_pg.html){: .btn }
+[PG](/docs/project_pg.html){: .btn .btn-purple }
 [UG](/docs/project_ug.html){: .btn }
 [StudentCompetition](/docs/project_competition.html){: .btn }
 
@@ -20,7 +20,7 @@ nav_exclude: true
 {% for project in filtered_projects %}
 {% if project.tags contains "PG" %}
 <a href="{{ project.url }}" class="content"> 
-    <img src="projects/project_pictures/{{ project.title | append: ".png" }}" alt="{{ project.title }}">
+    <img src="projects/project_pictures/{{ project.name | replace: ".md", ".png" }}" alt="{{ project.title }}">
     <p class="title">{{ project.title }}</p> 
     <p class="tags">{% for tag in project.tags %}
             {{ tag }}{% unless forloop.last %}, {% endunless %}
@@ -49,15 +49,19 @@ nav_exclude: true
     }
     .title {
          font-weight: bold;
-         margin-top: 3px;
+        text-align: center;
+         margin-top: 5px;
          margin-bottom: 0;
+        max-width: 300px;
+        word-wrap: break-word;
+        line-height: 1.3;
    }
     .tags {
          font-size: small;
+
          margin-top: 0;
          margin-bottom: 1px;
         max-width: 300px;
         word-wrap: break-word;
-        line-height: 1;
     }
 </style>
