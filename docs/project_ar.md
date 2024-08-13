@@ -7,9 +7,10 @@ nav_exclude: true
 # Augmented Reality Projects
 [All](/docs/project.html){: .btn }
 [Heritage](/docs/project_heritage.html){: .btn }
-[Edutainment](/docs/project_edutainment.html){: .btn }
+[Education](/docs/project_education.html){: .btn }
+[Play](/docs/project_play.html){: .btn }
 [VR](/docs/project_vr.html){: .btn }
-[AR](/docs/project_ar.html){: .btn .btn-purple }
+[AR](/docs/project_ar.html){: .btn .btn-blue }
 [PhD](/docs/project_phd.html){: .btn }
 [PG](/docs/project_pg.html){: .btn }
 [UG](/docs/project_ug.html){: .btn }

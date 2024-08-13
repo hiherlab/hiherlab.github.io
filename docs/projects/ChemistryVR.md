@@ -4,8 +4,10 @@ title: Chemistry VR
 nav_exclude: true
 tags:
 - VR
-- Edutainment
+- Education
+- Play
 - Student Competition
+- UG
 ---
 
 # Chemistry VR
@@ -16,5 +18,8 @@ Experiment is an essential part of chemistry education. However, it is equipment
 
 ## People
 Xuansheng Xia, [Guanxuan Jiang], Shuhao Zhang
+
+## Award
+CCVR 2022 Second Prize
 
 [Guangxuan Jiang]: https://jgxuann.github.io/

@@ -1,17 +1,17 @@
 ---
 layout: default
-title: PhD Projects
+title: Education Projects
 nav_exclude: true
 ---
 
-# PhD Projects
+# Education Projects
 [All](/docs/project.html){: .btn }
 [Heritage](/docs/project_heritage.html){: .btn }
-[Education](/docs/project_education.html){: .btn }
+[Education](/docs/project_education.html){: .btn .btn-blue }
 [Play](/docs/project_play.html){: .btn }
 [VR](/docs/project_vr.html){: .btn }
 [AR](/docs/project_ar.html){: .btn }
-[PhD](/docs/project_phd.html){: .btn .btn-blue }
+[PhD](/docs/project_phd.html){: .btn }
 [PG](/docs/project_pg.html){: .btn }
 [UG](/docs/project_ug.html){: .btn }
 [StudentCompetition](/docs/project_competition.html){: .btn }
@@ -19,7 +19,7 @@ nav_exclude: true
 {% assign filtered_projects = site.pages | where_exp: "item", "item.path contains 'projects/'" %}
 <div class="container">
 {% for project in filtered_projects %}
-{% if project.tags contains "PhD" %}
+{% if project.tags contains "Education" %}
 <a href="{{ project.url }}" class="content"> 
     <img src="projects/project_pictures/{{ project.name | replace: ".md", ".png" }}" alt="{{ project.title }}">
     <p class="title">{{ project.title }}</p> 

@@ -18,6 +18,6 @@ In this paper, we present a multi-user fire escape simulation training system th
 Zelin Jiang, Shuhao Zhang, [Yue Li], Ka Lok Man, Yong Yue, Jeremy Smith
 
 ## Publication
-Lin, Z., Zhang, S., Li, Y., Man, K., Yue, Y., & Smith, J. Is VR Always a Better Choice? Investigating the Effects of Game Modes and Role-Playing on Fire Escape Simulation Training. 2024 the 10th International Conference on Virtual Reality. 
+Jiang, Z., Zhang, S., Li, Y., Man, K., Yue, Y., & Smith, J. (2024) Is VR Always a Better Choice? Investigating the Effects of Game Modes and Role-Playing on Fire Escape Simulation Training. 2024 the 10th International Conference on Virtual Reality.
 
 [Yue Li]: https://imyueli.github.io/

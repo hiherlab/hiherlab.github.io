@@ -17,6 +17,6 @@ Cross-Reality (CR) is an important topic for the research of multiuser collabora
 Shuhao Zhang, [Yue Li], Ka Lok Man, Yong Yue, Jeremy Smith
 
 ## Publications
-Zhang, S., Li, Y.*, Man, K. L., Yue, Y., & Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 330–337. DOI: 10.1109/VRW58643.2023.00075
+Zhang, S., Li, Y., Man, K. L., Yue, Y., & Smith, J. (2023). Towards Cross-Reality Interaction and Collaboration: A Comparative Study of Object Selection and Manipulation in Reality and Virtuality. 2023 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), 330–337. DOI: 10.1109/VRW58643.2023.00075
 
 [Yue Li]: https://imyueli.github.io/

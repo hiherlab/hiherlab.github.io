@@ -3,9 +3,12 @@ layout: default
 title: Shuangta AR
 nav_exclude: true
 tags:
-- Heritage
 - AR
+- Heritage
+- Education
+- Play
 - Student Competition
+- PG
 ---
 
 # Shuangta AR
@@ -18,7 +21,10 @@ Cultural heritage (CH) plays an important role in realizing the Sustainable Deve
 [Ningning Xu], Jiachen Liang, Kexiang Shuai, Yuwen Li, Jiaqi Yan, [Yue Li], Yiping Dong
 
 ## Publication
-Xu, N., Liang, J., Shuai, K., Li, Y., & Yan, J. (2023, April). HeritageSite AR: An Exploration Game for Quality Education and Sustainable Cultural Heritage. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-8). 
+Xu, N., Liang, J., Shuai, K., Li, Y., & Yan, J. (2023, April). HeritageSite AR: An Exploration Game for Quality Education and Sustainable Cultural Heritage. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-8).
+
+## Award
+ACM CHI 2023 Shortlisted
 
 [Ningning Xu]: https://axiosly.github.io/
 [Yue Li]: https://imyueli.github.io/

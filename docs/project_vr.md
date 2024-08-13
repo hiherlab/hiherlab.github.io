@@ -7,8 +7,9 @@ nav_exclude: true
 # Virtual Reality Projects
 [All](/docs/project.html){: .btn }
 [Heritage](/docs/project_heritage.html){: .btn }
-[Edutainment](/docs/project_edutainment.html){: .btn }
-[VR](/docs/project_vr.html){: .btn .btn-purple }
+[Education](/docs/project_education.html){: .btn }
+[Play](/docs/project_play.html){: .btn }
+[VR](/docs/project_vr.html){: .btn .btn-blue }
 [AR](/docs/project_ar.html){: .btn }
 [PhD](/docs/project_phd.html){: .btn }
 [PG](/docs/project_pg.html){: .btn }

@@ -3,7 +3,8 @@ layout: default
 title: Easy Induction
 nav_exclude: true
 tags:
-- Edutainment
+- Education
+- Play
 - PG
 ---
 
@@ -17,6 +18,6 @@ College freshmen often face difficulties adjusting to the new academic and socia
 Yuwen Li, [Yue Li], Jiachen Liang, Hai-Ning Liang
 
 ## Publication
-Li, Y., Li, Y., Liang, J., & Liang, H. N. (2023, November). Easy Induction: A Serious Game Using Participatory Design. In International Conference on Computer-Human Interaction Research and Applications (pp. 192-211). Cham: Springer Nature Switzerland.
+Li, Y., Li, Y., Liang, J., & Liang, H. N. (2023). Easy Induction: A Serious Game Using Participatory Design. In International Conference on Computer-Human Interaction Research and Applications (pp. 192-211). Cham: Springer Nature Switzerland.
 
 [Yue Li]: https://imyueli.github.io/

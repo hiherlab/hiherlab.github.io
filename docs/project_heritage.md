@@ -6,8 +6,9 @@ nav_exclude: true
 
 # Heritage Projects
 [All](/docs/project.html){: .btn }
-[Heritage](/docs/project_heritage.html){: .btn .btn-purple }
-[Edutainment](/docs/project_edutainment.html){: .btn }
+[Heritage](/docs/project_heritage.html){: .btn .btn-blue }
+[Education](/docs/project_education.html){: .btn }
+[Play](/docs/project_play.html){: .btn }
 [VR](/docs/project_vr.html){: .btn }
 [AR](/docs/project_ar.html){: .btn }
 [PhD](/docs/project_phd.html){: .btn }

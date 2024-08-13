@@ -7,11 +7,12 @@ nav_exclude: true
 # Postgraduate Projects
 [All](/docs/project.html){: .btn }
 [Heritage](/docs/project_heritage.html){: .btn }
-[Edutainment](/docs/project_edutainment.html){: .btn }
+[Education](/docs/project_education.html){: .btn }
+[Play](/docs/project_play.html){: .btn }
 [VR](/docs/project_vr.html){: .btn }
 [AR](/docs/project_ar.html){: .btn }
 [PhD](/docs/project_phd.html){: .btn }
-[PG](/docs/project_pg.html){: .btn .btn-purple }
+[PG](/docs/project_pg.html){: .btn .btn-blue }
 [UG](/docs/project_ug.html){: .btn }
 [StudentCompetition](/docs/project_competition.html){: .btn }
 

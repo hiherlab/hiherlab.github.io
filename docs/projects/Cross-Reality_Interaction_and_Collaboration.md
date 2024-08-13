@@ -5,8 +5,9 @@ nav_exclude: true
 tags:
 - VR
 - Heritage
-- Edutainment
+- Education
 - Student Competition
+- UG
 ---
 
 # Cross-Reality Interaction and Collaboration
@@ -20,5 +21,8 @@ Xuansheng Xia, Jiachen Liang, Ruixiang Zhao, Ziyue Zhao, Mingze Wu, [Yue Li], Ha
 
 ## Publication
 Xia, X., Liang, J., Zhao, R., Zhao, Z., Wu, M., Li, Y., & Liang, H. N. (2023, October). Cross-Reality Interaction and Collaboration in Museums, Education, and Rehabilitation. In 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 815-820). IEEE.
+
+## Award
+IEEE ISMAR 2023 Shortlisted
 
 [Yue Li]: https://imyueli.github.io/

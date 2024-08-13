@@ -4,7 +4,8 @@ title: Virtual Classroom
 nav_exclude: true
 tags:
 - VR
-- Edutainment
+- Education
+- UG
 ---
 
 # Virtual Classroom
@@ -17,6 +18,6 @@ The emergence of COVID-19 has had a significant impact on the education field, l
 [Yue Li], Jiachen Liang, Yuang Zhou, Cheng Zhang, Yong Yue, Hai-Ning Liang
 
 ## Publication
-Li, Y., Liang, J., Zhou, Y., Zhang, C., Yue, Y., & Liang, H. N. (2023, September). Understanding the Needs of Virtual Reality for Learning and Teaching: A User-Centered Approach. In 2023 3rd International Conference on Educational Technology (ICET) (pp. 7-11). IEEE.
+Li, Y., Liang, J., Zhou, Y., Zhang, C., Yue, Y., & Liang, H. N. (2023). Understanding the Needs of Virtual Reality for Learning and Teaching: A User-Centered Approach. In 2023 3rd International Conference on Educational Technology (ICET) (pp. 7-11). IEEE.
 
 [Yue Li]: https://imyueli.github.io/
