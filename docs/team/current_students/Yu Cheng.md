@@ -1,5 +1,5 @@
 ---
 people: Yu Cheng
-degree: ??? ???
+degree: BEng Digital Media Technology
 website: null
 ---
