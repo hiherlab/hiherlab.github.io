@@ -1,5 +1,5 @@
 ---
 people: Bingqing Chen
-degree: Research Assistant Computer Science and Software Engineering
+degree: Research Assistant
 website: null
 ---

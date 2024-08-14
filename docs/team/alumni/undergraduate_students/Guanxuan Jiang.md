@@ -1,5 +1,5 @@
 ---
 people: Guanxuan Jiang
-degree: BSc Computing Science
+degree: BSc Computer Science
 website: https://jgxuann.github.io/
 ---

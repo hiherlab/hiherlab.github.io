@@ -1,5 +1,0 @@
----
-people: Mingke Ma
-degree: ??? ???
-website: null
----

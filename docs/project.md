@@ -57,7 +57,7 @@ nav_order: 2
    }
     .tags {
          font-size: small;
-
+        text-align: center;
          margin-top: 0;
          margin-bottom: 1px;
         max-width: 300px;
