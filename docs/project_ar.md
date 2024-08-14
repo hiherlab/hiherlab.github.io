@@ -18,8 +18,10 @@ nav_exclude: true
 
 
 {% assign filtered_projects = site.pages | where_exp: "item", "item.path contains 'projects/'" %}
+{% assign sorted_projects = filtered_projects | sort: 'year' | reverse %}
+
 <div class="container">
-{% for project in filtered_projects %}
+{% for project in sorted_projects %}
 {% if project.tags contains "AR" %}
 <a href="{{ project.url }}" class="content"> 
     <img src="projects/project_pictures/{{ project.name | replace: ".md", ".png" }}" alt="{{ project.title }}">

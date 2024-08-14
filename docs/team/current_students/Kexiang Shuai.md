@@ -1,5 +1,5 @@
 ---
 people: Kexiang Shuai
-degree: ??? ???
+degree: BEng Computer Science and Technology
 website: null
 ---

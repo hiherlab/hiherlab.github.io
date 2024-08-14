@@ -2,12 +2,11 @@
 people: Jiachen Liang
 degree: PhD Student, Computer Science and Software Engineering
 website: team/phd_students/Jiachen Liang
-title: Jiachen Liang
 layout: default
 nav_exclude: true
 ---
 
-<a href="../../team.html"><back</a>
+<a href="../../team.html"><Back</a>
 
 <img src="../../../pictures/Jiachen Liang.jpg" style="height: 200px; width: 200px; border-radius: 10px;" alt="Jiachen Liang">
 
@@ -30,17 +29,17 @@ Learning by Playing: Serious Games for Chinese Cultural Heritage
 [Virtual Classroom]
 
 ### Publications
-[1] Liang, J., Li, Y., Wang, X., Zhao, Z., & Liang, H. N. (2024, March). MemoryVR: Collecting and Sharing Memories in Personal Virtual Museums. In 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 1021-1022). IEEE.  
-[2] Liang, J. (2024, March). [DC] Playful and Participatory Cultural Heritage Experience Using Extended Reality Technologies. In 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 1154-1155). IEEE.  
-[3] Li, Y., Li, Y., Liang, J., & Liang, H. N. (2023, November). Easy Induction: A Serious Game Using Participatory Design. In International Conference on Computer-Human Interaction Research and Applications (pp. 192-211). Cham: Springer Nature Switzerland.  
-[4] Xia, X., Liang, J., Zhao, R., Zhao, Z., Wu, M., Li, Y., & Liang, H. N. (2023, October). Cross-Reality Interaction and Collaboration in Museums, Education, and Rehabilitation. In 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 815-820). IEEE.  
-[5] Li, Y., Liang, J., Zhou, Y., Zhang, C., Yue, Y., & Liang, H. N. (2023, September). Understanding the Needs of Virtual Reality for Learning and Teaching: A User-Centered Approach. In 2023 3rd International Conference on Educational Technology (ICET) (pp. 7-11). IEEE.  
-[6] Xu, N., Liang, J., Shuai, K., Li, Y., & Yan, J. (2023, April). HeritageSite AR: An Exploration Game for Quality Education and Sustainable Cultural Heritage. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-8). 
+1. Liang, J., Li, Y., Wang, X., Zhao, Z., & Liang, H. N. (2024, March). *MemoryVR: Collecting and Sharing Memories in Personal Virtual Museums*. In 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 1021-1022). IEEE.
+2. Liang, J. (2024, March). *[DC] Playful and Participatory Cultural Heritage Experience Using Extended Reality Technologies*. In 2024 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW) (pp. 1154-1155). IEEE.
+3. Li, Y., Li, Y., Liang, J., & Liang, H. N. (2023, November). *Easy Induction: A Serious Game Using Participatory Design*. In International Conference on Computer-Human Interaction Research and Applications (pp. 192-211). Cham: Springer Nature Switzerland.
+4. Xia, X., Liang, J., Zhao, R., Zhao, Z., Wu, M., Li, Y., & Liang, H. N. (2023, October). *Cross-Reality Interaction and Collaboration in Museums, Education, and Rehabilitation*. In 2023 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct) (pp. 815-820). IEEE.
+5. Li, Y., Liang, J., Zhou, Y., Zhang, C., Yue, Y., & Liang, H. N. (2023, September). *Understanding the Needs of Virtual Reality for Learning and Teaching: A User-Centered Approach*. In 2023 3rd International Conference on Educational Technology (ICET) (pp. 7-11). IEEE.
+6. Xu, N., Liang, J., Shuai, K., Li, Y., & Yan, J. (2023, April). *HeritageSite AR: An Exploration Game for Quality Education and Sustainable Cultural Heritage*. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (pp. 1-8).
 
 ### Supervisors
-Yue Li (Principle)  
-Hai-Ning Liang  
-Richard Koeck
+[Yue Li (Principle Supervisor)]<br>
+[Hai-Ning Liang]<br>
+[Richard Koeck]
 
 ---
 [Memory VR]: ../../projects/MemoryVR
@@ -48,3 +47,7 @@ Richard Koeck
 [Cross-Reality Interaction and Collaboration]: ../../projects/Cross-Reality_Interaction_and_Collaboration
 [Easy Induction]: ../../projects/EasyInduction
 [Virtual Classroom]: ../../projects/VirtualClassroom
+
+[Yue Li (Principle Supervisor)]: https://imyueli.github.io/
+[Hai-Ning Liang]: https://cma.hkust-gz.edu.cn/people/hai-ning-liang/
+[Richard Koeck]: https://www.liverpool.ac.uk/architecture/staff/richard-koeck/

@@ -1,5 +1,5 @@
 ---
 people: Yinuo Wang
-degree: ??? ???
+degree: BSc Information and Computing Science
 website: null
 ---
