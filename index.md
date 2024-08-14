@@ -4,21 +4,29 @@ layout: home
 nav_order: 1
 ---
 
-**HER Lab (Heritage, Edutainment, and Reality)** is a research team led by [Dr Yue Li], focusing on advancing the fields of cultural heritage, education, and entertainment by novel technologies and reality-based experiences. We derive practical implications from Human-Computer Interaction (HCI), Virtual Reality (VR), and Augmented Reality (AR), while drawing theoretical insights from heritage and education research. By employing a user-centered approach, we design, develop, and evaluate novel interfaces and interaction techniques that enhance future experiences of heritage, education, and play.
+**HER Lab (Heritage, Edutainment, and Reality)** is a research team led by [Dr Yue Li], focusing on advancing the fields
+of cultural heritage, education, and entertainment by novel technologies and reality-based experiences. We derive
+practical implications from Human-Computer Interaction (HCI), Virtual Reality (VR), and Augmented Reality (AR), while
+drawing theoretical insights from heritage and education research. By employing a user-centered approach, we design,
+develop, and evaluate novel interfaces and interaction techniques that enhance future experiences of heritage,
+education, and play.
 
-Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'an Jiaotong-Liverpool University (XJTLU). It is an interdisciplinary research team with passionate and motivated undergraduate, postgraduate, and PhD students.
+Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'an Jiaotong-Liverpool University (
+XJTLU). It is an interdisciplinary research team with passionate and motivated undergraduate, postgraduate, and PhD
+students.
 
-![2021](pictures/2021.jpg)
-2021
-
-![2022](pictures/2022.png)
-2022
-
-![2023](pictures/2023.jpg)
-2023
-
-![2024](pictures/2024.png)
-2024
+<head>
+  <link rel="stylesheet" href="css/flickity.css" media="screen">
+</head>
+<body>
+    <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "pageDots": false }'>
+        <img class="carousel-cell" src="pictures/2021.jpg" alt="2021">
+        <img class="carousel-cell" src="pictures/2022.png" alt="2022">
+        <img class="carousel-cell" src="pictures/2023.jpg" alt="2023">
+        <img class="carousel-cell" src="pictures/2024.png" alt="2024">
+    </div>
+  <script src="js/flickity.pkgd.min.js"></script>
+</body>
 
 ---
 
@@ -42,6 +50,7 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
 [//]: # (## Games and Gamified Learning)
 
 [//]: # ()
+
 [//]: # (<div class="container">)
 
 [//]: # (    <a href="https://example.com" class="content2">)
@@ -63,9 +72,11 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
 [//]: # (</div>)
 
 [//]: # ()
+
 [//]: # (## Cross Reality Experience)
 
 [//]: # ()
+
 [//]: # (<div class="container">)
 
 [//]: # (    <a href="https://example.com" class="content2">)
@@ -87,9 +98,11 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
 [//]: # (</div>)
 
 [//]: # ()
+
 [//]: # (# News)
 
 [//]: # ()
+
 [//]: # (Here's what's happening in the lab right now.)
 
 ----
@@ -131,4 +144,9 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
         word-wrap: break-word;
         line-height: 1.3;
    }
+    .carousel-cell {
+    width: 100%;
+    height: 500px;
+    margin-right: 10px;
+    }
 </style>
