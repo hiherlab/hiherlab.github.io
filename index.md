@@ -13,13 +13,16 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
 </head>
 <body>
     <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "pageDots": false }'>
-        <img class="carousel-cell" src="pictures/2021.jpg" alt="2021">
-        <img class="carousel-cell" src="pictures/2022.png" alt="2022">
-        <img class="carousel-cell" src="pictures/2023.jpg" alt="2023">
-        <img class="carousel-cell" src="pictures/2024.png" alt="2024">
+        {% assign reversed_image = site.static_files | sort: 'name' | reverse %}
+        {% for image in reversed_image %}
+            {% if image.path contains 'Index_picture' %}
+            <img class="carousel-cell" src="{{ site.baseurl }}{{ image.path }}" alt="image">
+        {% endif %}
+        {% endfor %}
     </div>
   <script src="js/flickity.pkgd.min.js"></script>
 </body>
+
 
 ---
 
@@ -131,15 +134,18 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
     }
     .title {
         text-align: center;
-         margin-top: 5px;
-         margin-bottom: 0;
+        margin-top: 5px;
+        margin-bottom: 0;
         max-width: 232px;
         word-wrap: break-word;
         line-height: 1.3;
-   }
+    }
     .carousel-cell {
-    width: 100%;
-    height: auto;
-    margin-right: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        width: 100%;
+        margin-right: 10px;
     }
 </style>
