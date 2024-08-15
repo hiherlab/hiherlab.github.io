@@ -16,7 +16,7 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
         {% assign reversed_image = site.static_files | sort: 'name' | reverse %}
         {% for image in reversed_image %}
             {% if image.path contains 'Index_picture' %}
-            <img class="carousel-cell" src="{{ site.baseurl }}{{ image.path }}" alt="image">
+            <img class="carousel-cell" src="{{ image.path }}" alt="image">
         {% endif %}
         {% endfor %}
     </div>
