@@ -1,6 +1,6 @@
 ---
 people: Jiachen Liang
-degree: PhD Student, Computer Science and Software Engineering
+degree: Computer Science and Software Engineering
 website: team/phd_students/Jiachen Liang
 layout: default
 nav_exclude: true
@@ -48,6 +48,6 @@ Learning by Playing: Serious Games for Chinese Cultural Heritage
 [Easy Induction]: ../../projects/EasyInduction
 [Virtual Classroom]: ../../projects/VirtualClassroom
 
-[Yue Li (Principle Supervisor)]: https://imyueli.github.io/
+[Yue Li (Principle Supervisor)]: https://scholar.xjtlu.edu.cn/en/persons/YueLi
 [Hai-Ning Liang]: https://cma.hkust-gz.edu.cn/people/hai-ning-liang/
 [Richard Koeck]: https://www.liverpool.ac.uk/architecture/staff/richard-koeck/

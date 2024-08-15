@@ -12,7 +12,7 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
   <link rel="stylesheet" href="css/flickity.css" media="screen">
 </head>
 <body>
-    <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "pageDots": false }'>
+    <div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true, "wrapAround": true, "pageDots": false, "autoPlay": true }'>
         {% assign reversed_image = site.static_files | sort: 'name' | reverse %}
         {% for image in reversed_image %}
             {% if image.path contains 'Index_picture' %}

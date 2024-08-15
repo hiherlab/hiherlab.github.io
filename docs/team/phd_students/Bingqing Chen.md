@@ -27,6 +27,6 @@ Sound in Virtual Museums: Embodiment, Emotion, and Engagement
 [Richard Koeck]
 
 ---
-[Yue Li (Principle Supervisor)]: https://imyueli.github.io/
+[Yue Li (Principle Supervisor)]: https://scholar.xjtlu.edu.cn/en/persons/YueLi
 [Hai-Ning Liang]: https://cma.hkust-gz.edu.cn/people/hai-ning-liang/
 [Richard Koeck]: https://www.liverpool.ac.uk/architecture/staff/richard-koeck/
