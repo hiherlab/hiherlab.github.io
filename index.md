@@ -139,7 +139,7 @@ Operating since 2021, HER Lab is based at the School of Advanced Technology, Xi'
    }
     .carousel-cell {
     width: 100%;
-    height: 500px;
+    height: auto;
     margin-right: 10px;
     }
 </style>

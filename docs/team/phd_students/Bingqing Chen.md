@@ -6,7 +6,7 @@ layout: default
 nav_exclude: true
 ---
 
-<a href="../../team.html"><Back</a>
+<a href="../../team.html">< Back</a>
 
 <img src="../../../pictures/Bingqing%20Chen.jpg" style="height: 200px; width: 200px; border-radius: 10px;" alt="Bingqing Chen">
 
@@ -18,11 +18,15 @@ nav_exclude: true
 2021-2022 MIT, Human Computer Interaction, University of Melbourne  
 2024-present, Teaching Assistant, Xi'an Jiaotong-Liverpool University
 
+### PhD Project
+Sound in Virtual Museums: Embodiment, Emotion, and Engagement
+
 ### Supervisors
 [Yue Li (Principle Supervisor)]<br>
 [Hai-Ning Liang]<br>
-Richard Koeck
+[Richard Koeck]
 
 ---
 [Yue Li (Principle Supervisor)]: https://imyueli.github.io/
 [Hai-Ning Liang]: https://cma.hkust-gz.edu.cn/people/hai-ning-liang/
+[Richard Koeck]: https://www.liverpool.ac.uk/architecture/staff/richard-koeck/

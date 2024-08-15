@@ -6,7 +6,7 @@ layout: default
 nav_exclude: true
 ---
 
-<a href="../../team.html"><Back</a>
+<a href="../../team.html">< Back</a>
 
 <img src="../../../pictures/Shuhao%20Zhang.jpg" style="height: 200px; width: 200px; border-radius: 10px;" alt="Shuhao Zhang">
 
@@ -31,14 +31,17 @@ Understanding Performance and Experience in Asymmetric Interaction and Collabora
 2. Jiang, Z., Zhang, S., Li, Y.*, Man, K. L., Yue, Y., & Smith, J. (2024). Is VR Always a Better Choice? Investigating the Effects of Game Modes and Role-Playing on Fire Escape Simulation Training. 2024 the 10th International Conference on Virtual Reality (ICVR2024).
 
 ### Supervisors
-Ka Lok Man (Principle Supervisor)<br>
+[Ka Lok Man (Principle Supervisor)]<br>
 [Yue Li]<br>
-Yong Yue<br>
-Jeremy Smith
+[Yong Yue]<br>
+[Jeremy Smith]
 
 ---
 [Towards Cross Reality: A Comparative Study]: ../../projects/Towards_Cross_Reality_A_Comparative_Study
 [Chemistry VR]: ../../projects/ChemistryVR
 [Fire Escape]: ../../projects/FireEscape
 
+[Ka Lok Man (Principle Supervisor)]: https://scholar.xjtlu.edu.cn/en/persons/KaMan
 [Yue Li]: https://imyueli.github.io/
+[Yong Yue]: https://scholar.xjtlu.edu.cn/en/persons/YongYue
+[Jeremy Smith]: https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/jeremy-smith/

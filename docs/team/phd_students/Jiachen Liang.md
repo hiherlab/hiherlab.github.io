@@ -6,7 +6,7 @@ layout: default
 nav_exclude: true
 ---
 
-<a href="../../team.html"><Back</a>
+<a href="../../team.html">< Back</a>
 
 <img src="../../../pictures/Jiachen Liang.jpg" style="height: 200px; width: 200px; border-radius: 10px;" alt="Jiachen Liang">
 

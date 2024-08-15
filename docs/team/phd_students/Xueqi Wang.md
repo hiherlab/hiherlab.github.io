@@ -6,7 +6,7 @@ layout: default
 nav_exclude: true
 ---
 
-<a href="../../team.html"><Back</a>
+<a href="../../team.html">< Back</a>
 
 <img src="../../../pictures/Xueqi%20Wang.jpg" style="height: 200px; width: 200px; border-radius: 10px;" alt="Xueqi Wang">
 
@@ -34,7 +34,7 @@ Navigation, Artifact Interaction, and Social Sharing in Virtual Museums
 ### Supervisors
 [Yue Li (Principle Supervisor)]<br>
 [Hai-Ning Liang]<br>
-Han-Mei Chen
+[Han-Mei Chen]
 
 ### Personal Website
 [@Xueqi Wang]
@@ -46,5 +46,6 @@ Han-Mei Chen
 
 [Yue Li (Principle Supervisor)]: https://imyueli.github.io/
 [Hai-Ning Liang]: https://cma.hkust-gz.edu.cn/people/hai-ning-liang/
+[Han-Mei Chen]: https://www.liverpool.ac.uk/architecture/staff/han-mei-chen/
 
 [@Xueqi Wang]: https://xueqiwang.cargo.site/
