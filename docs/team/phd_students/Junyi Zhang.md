@@ -1,6 +1,6 @@
 ---
 people: Junyi Zhang
-degree: PhD Student, Computer Science and Software Engineering
+degree: Computer Science and Software Engineering
 website: team/phd_students/Junyi Zhang
 layout: default
 nav_exclude: true
@@ -29,7 +29,7 @@ High-Performance Neural Sensors for Signal Acquisition of Non-Invasive Brain-Com
 [Heba Lakany]
 
 ---
-[Yue Li (Principle Supervisor)]: https://imyueli.github.io/
+[Yue Li (Principle Supervisor)]: https://scholar.xjtlu.edu.cn/en/persons/YueLi
 [Weihua Pei (JITRI Principle Supervisor)]: https://www.xjtlu.edu.cn/en/study/departments/jitri/academy-staff/jitri-industrial-supervisor/staff/weihua-pei
 [Hai-Ning Liang]: https://cma.hkust-gz.edu.cn/people/hai-ning-liang/
 [Heba Lakany]: https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/heba-lakany/

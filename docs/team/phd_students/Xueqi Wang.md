@@ -1,6 +1,6 @@
 ---
 people: Xueqi Wang
-degree: PhD Student, Computer Science and Software Engineering
+degree: Computer Science and Software Engineering
 website: team/phd_students/Xueqi Wang
 layout: default
 nav_exclude: true
@@ -44,7 +44,7 @@ Navigation, Artifact Interaction, and Social Sharing in Virtual Museums
 [MagicMap]: ../../projects/MagicMap
 [Memory VR]: ../../projects/MemoryVR
 
-[Yue Li (Principle Supervisor)]: https://imyueli.github.io/
+[Yue Li (Principle Supervisor)]: https://scholar.xjtlu.edu.cn/en/persons/YueLi
 [Hai-Ning Liang]: https://cma.hkust-gz.edu.cn/people/hai-ning-liang/
 [Han-Mei Chen]: https://www.liverpool.ac.uk/architecture/staff/han-mei-chen/
 

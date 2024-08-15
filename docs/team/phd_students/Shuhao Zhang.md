@@ -1,6 +1,6 @@
 ---
 people: Shuhao Zhang
-degree: PhD Student, Computer Science and Software Engineering
+degree: Computer Science and Software Engineering
 website: team/phd_students/Shuhao Zhang
 layout: default
 nav_exclude: true
@@ -42,6 +42,6 @@ Understanding Performance and Experience in Asymmetric Interaction and Collabora
 [Fire Escape]: ../../projects/FireEscape
 
 [Ka Lok Man (Principle Supervisor)]: https://scholar.xjtlu.edu.cn/en/persons/KaMan
-[Yue Li]: https://imyueli.github.io/
+[Yue Li]: https://scholar.xjtlu.edu.cn/en/persons/YueLi
 [Yong Yue]: https://scholar.xjtlu.edu.cn/en/persons/YongYue
 [Jeremy Smith]: https://www.liverpool.ac.uk/electrical-engineering-and-electronics/staff/jeremy-smith/
