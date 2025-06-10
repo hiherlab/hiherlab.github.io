@@ -6,4 +6,5 @@ venue: 2023 IEEE 47th Annual Computers, Software, and Applications Conference (C
 DOI: https://doi.org/10.1109/COMPSAC57700.2023.00225
 nav_exclude: true
 year: 2023
+paper: "[C22]2023.06.COMPSAC.HanfuAR.pdf"
 ---

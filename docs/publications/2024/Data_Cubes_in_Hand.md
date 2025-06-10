@@ -6,4 +6,5 @@ venue: Proceedings of the CHI Conference on Human Factors in Computing Systems
 doi: https://doi.org/10.1145/3613904.3642740
 nav_exclude: true
 year: 2024
+paper: "[C38]2024.05.CHI.DataCube.pdf"
 ---

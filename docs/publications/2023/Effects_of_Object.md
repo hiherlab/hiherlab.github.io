@@ -6,4 +6,5 @@ venue: 2023 Asia Conference on Cognitive Engineering and Intelligent Interaction
 DOI: https://doi.org/10.1109/CEII60565.2023.00013
 nav_exclude: true
 year: 2023
+paper: "[C33]2023.12.CEII2023.Complexity.pdf"
 ---
