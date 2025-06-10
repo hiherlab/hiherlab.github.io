@@ -6,4 +6,5 @@ venue: Human-Computer Interaction – INTERACT 2023
 DOI: https://doi.org/10.1007/978-3-031-42293-5_63
 nav_exclude: true
 year: 2023
+paper: "[C24]2023.08.INTERACT.DIFSC.pdf"
 ---

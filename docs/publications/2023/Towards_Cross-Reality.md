@@ -6,4 +6,5 @@ venue: 2023 IEEE Conference on Virtual Reality, 3D User Interfaces Abstracts and
 DOI: https://doi.org/10.1109/VRW58643.2023.00075
 nav_exclude: true
 year: 2023
+paper: "[C16]2023.03.VR.CrossReality.pdf"
 ---

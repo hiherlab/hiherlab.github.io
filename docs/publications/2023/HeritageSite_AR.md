@@ -6,4 +6,5 @@ venue: Extended Abstracts of the 2023 CHI Conference on Human Factors in Computi
 DOI: https://doi.org/10.1145/3544549.3583837
 nav_exclude: true
 year: 2023
+paper: "[C20]2023.04.CHI.SDC.pdf"
 ---

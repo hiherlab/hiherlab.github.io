@@ -6,4 +6,5 @@ venue: International Journal of Human–Computer Interaction
 DOI: https://doi.org/10.1080/10447318.2023.2171350
 nav_exclude: true
 year: 2023
+paper: "[J05]2023.02.IJHCI.CubeMuseumAR.pdf"
 ---

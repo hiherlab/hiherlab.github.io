@@ -6,4 +6,5 @@ venue: Proceedings of the 2023 CHI Conference on Human Factors in Computing Syst
 DOI: https://doi.org/10.1145/3544548.3581042
 nav_exclude: true
 year: 2023
+paper: "[C19]2023.04.CHI.GazeAR.pdf"
 ---

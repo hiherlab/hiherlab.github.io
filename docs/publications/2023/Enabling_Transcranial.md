@@ -6,4 +6,5 @@ venue: 2023 5th International Conference on Electronic Engineering and Informati
 DOI: https://doi.org/10.1109/EEI59236.2023.10212634
 nav_exclude: true
 year: 2023
+paper: "[C23]2023.06.EEI.pdf"
 ---

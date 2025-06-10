@@ -8,7 +8,7 @@ nav_exclude: true
 [2025](/docs/publications.html){: .btn }
 [2024](/docs/publications_24.html){: .btn .btn-blue }
 [2023](/docs/publications_23.html){: .btn }
-[Other Publications](/docs/publications_others.html){: .btn }
+[Other Publications](/docs/publications_other.html){: .btn }
 
 {% assign filtered_publications = site.pages | where_exp: "item", "item.path contains 'publications/2024/'" %}
 {% for publication in filtered_publications %}
@@ -26,7 +26,7 @@ nav_exclude: true
             <a href="{{ publication.bibtex }}" class="pub-link" target="_blank">BibTeX</a>
             {% endif %}
             {% if publication.paper %}
-            <a href="{{ publication.paper }}" class="pub-link" target="_blank">Paper</a>
+            <a href="/docs/publications/pdf/{{ publication.paper | url_encode }}" class="pub-link" target="_blank">Paper</a>
             {% endif %}
         </div>
     </div>

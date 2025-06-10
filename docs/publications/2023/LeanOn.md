@@ -6,4 +6,5 @@ venue: 2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)
 DOI: https://doi.org/10.1109/ISMAR59233.2023.00056
 nav_exclude: true
 year: 2023
+paper: "[C26]2023.10.ISMAR.LeanOn.pdf"
 ---

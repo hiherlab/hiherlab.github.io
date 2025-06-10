@@ -6,4 +6,5 @@ venue: Extended Abstracts of the CHI Conference on Human Factors in Computing Sy
 doi: https://doi.org/10.1007/s10055-023-00902-z
 nav_exclude: true
 year: 2024
+paper: "[J07]2024.01.VR.TextEntry.pdf"
 ---

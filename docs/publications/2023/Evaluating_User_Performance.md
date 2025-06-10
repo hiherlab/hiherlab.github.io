@@ -6,4 +6,5 @@ venue: Proceedings of the 2023 7th International Conference on Virtual and Augme
 DOI: https://doi.org/10.1145/3603421.3603426
 nav_exclude: true
 year: 2023
+paper: "[C15]2023.03.ICVARS.STVRQ.pdf"
 ---

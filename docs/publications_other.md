@@ -8,7 +8,7 @@ nav_exclude: true
 [2025](/docs/publications.html){: .btn }
 [2024](/docs/publications_24.html){: .btn }
 [2023](/docs/publications_23.html){: .btn }
-[Other Publications](/docs/publications_others.html){: .btn .btn-blue }
+[Other Publications](/docs/publications_other.html){: .btn .btn-blue }
 
 {% assign filtered_publications = site.pages | where_exp: "item", "item.path contains 'publications/2024/'" %}
 {% for publication in filtered_publications %}

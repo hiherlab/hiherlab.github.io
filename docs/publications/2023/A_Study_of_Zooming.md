@@ -6,4 +6,5 @@ venue: 2023 IEEE 16th Pacific Visualization Symposium (PacificVis)
 DOI: https://doi.org/10.1109/PacificVis56936.2023.00009
 nav_exclude: true
 year: 2023
+paper: "[C21]2023.04.PacificVis.CollaborativeMapTask.pdf"
 ---
