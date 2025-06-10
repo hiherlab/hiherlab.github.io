@@ -5,15 +5,10 @@ nav_order: 3
 ---
 
 # Publications
-{: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
+[2025](/docs/publications.html){: .btn .btn-blue }
+[2024](/docs/publications_24.html){: .btn }
+[2023](/docs/publications_23.html){: .btn }
+[Other Publications](/docs/publications_others.html){: .btn }
 
 ## 2024
 - Wan, T., Shi, R., Xu, W., **Li, Y.,** Atkinson, K., Yu, L., & Liang, H.-N. (2024). Hands-free multi-type character text entry in virtual reality. Virtual Reality, 28(1), 8. DOI: [10.1007/s10055-023-00902-z](https://doi.org/10.1007/s10055-023-00902-z)
