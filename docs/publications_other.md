@@ -24,14 +24,14 @@ nav_exclude: true
           <p class="publication-authors">{{ publication.author | replace: 'Yue Li', '<strong>Yue Li</strong>' }}</p>
           <p class="publication-venue">{{ publication.venue }}, {{ publication.year }}</p>
           <div class="pub-links">
-              <a href="{{ publication.doi }}" class="pub-link" target="_blank">DOI</a>
-              {% if publication.bibtex %}
-              <a href="{{ publication.bibtex }}" class="pub-link" target="_blank">BibTeX</a>
-              {% endif %}
-              {% if publication.paper %}
-              <a href="{{ publication.paper }}" class="pub-link" target="_blank">Paper</a>
-              {% endif %}
-          </div>
+            <a href="{{ publication.DOI }}" class="pub-link" target="_blank">DOI</a>
+            {% if publication.bibtex %}
+            <a href="{{ publication.bibtex }}" class="pub-link" target="_blank">BibTeX</a>
+            {% endif %}
+            {% if publication.paper %}
+            <a href="/docs/publications/pdf/{{ publication.paper | url_encode }}" class="pub-link" target="_blank">Paper</a>
+            {% endif %}
+        </div>
       </div>
   </div>
   <hr class="publication-divider">
