@@ -10,28 +10,32 @@ nav_exclude: true
 [2023](/docs/publications_23.html){: .btn }
 [Other Publications](/docs/publications_other.html){: .btn .btn-blue }
 
-{% assign filtered_publications = site.pages | where_exp: "item", "item.path contains 'publications/2024/'" %}
-{% for publication in filtered_publications %}
-<div class="publication-item">
-    <div class="publication-image">
-        <img src="publications/pictures/{{ publication.name | replace: ".md", ".png" }}" alt="{{ publication.title }}">
-    </div>
-    <div class="publication-content">
-        <h2 class="publication-title">{{ publication.title }}</h2>
-        <p class="publication-authors">{{ publication.author | replace: 'Yue Li', '<strong>Yue Li</strong>' }}</p>
-        <p class="publication-venue">{{ publication.venue }}, {{ publication.year }}</p>
-        <div class="pub-links">
-            <a href="{{ publication.doi }}" class="pub-link" target="_blank">DOI</a>
-            {% if publication.bibtex %}
-            <a href="{{ publication.bibtex }}" class="pub-link" target="_blank">BibTeX</a>
-            {% endif %}
-            {% if publication.paper %}
-            <a href="{{ publication.paper }}" class="pub-link" target="_blank">Paper</a>
-            {% endif %}
-        </div>
-    </div>
-</div>
-<hr class="publication-divider">
+{% assign filtered_publications = site.pages | where_exp: "item", "item.path contains 'publications/others/'" %}
+{% assign sorted_by_year = filtered_publications | group_by: 'year' | sort: 'name' | reverse %}
+{% for year_group in sorted_by_year %}
+  {% assign year_publications = year_group.items | sort: 'title' %}
+  {% for publication in year_publications %}
+  <div class="publication-item">
+      <div class="publication-image">
+          <img src="publications/pictures/{{ publication.name | replace: ".md", ".png" }}" alt="{{ publication.title }}">
+      </div>
+      <div class="publication-content">
+          <h2 class="publication-title">{{ publication.title }}</h2>
+          <p class="publication-authors">{{ publication.author | replace: 'Yue Li', '<strong>Yue Li</strong>' }}</p>
+          <p class="publication-venue">{{ publication.venue }}, {{ publication.year }}</p>
+          <div class="pub-links">
+              <a href="{{ publication.doi }}" class="pub-link" target="_blank">DOI</a>
+              {% if publication.bibtex %}
+              <a href="{{ publication.bibtex }}" class="pub-link" target="_blank">BibTeX</a>
+              {% endif %}
+              {% if publication.paper %}
+              <a href="{{ publication.paper }}" class="pub-link" target="_blank">Paper</a>
+              {% endif %}
+          </div>
+      </div>
+  </div>
+  <hr class="publication-divider">
+  {% endfor %}
 {% endfor %}
 
 <style>
