@@ -7,14 +7,14 @@ nav_order: 4
 # Team
 {: .no_toc }
 
-<details markdown="block">
+<!-- <details markdown="block">
   <summary>
     Table of contents
-  </summary>
-  {: .text-delta }
+  </summary> -->
+{: .text-delta }
 1. TOC
 {:toc}
-</details>
+<!-- </details> -->
 
 ---
 
@@ -74,6 +74,27 @@ nav_order: 4
 
 ## Alumni
 
+### Undergraduate Students
+
+{% assign filtered_team_under = site.pages | where_exp: "item", "item.path contains 'team/alumni/undergraduate_students/'" %}
+<div class="container">
+{% for under in filtered_team_under %}
+{% if under.website != null %}
+<a href="{{ under.website }}" class="content">
+    <img src="../pictures/{{ under.people | append: ".jpg" }}" alt="{{ under.people }}">
+    <p class="name">{{ under.people }}, 2025</p>
+    <p class="degree">{{ under.degree }}</p>
+</a>
+{% else %}
+<div class="content">
+    <img src="../pictures/{{ under.people | append: ".jpg" }}" alt="{{ under.people }}">
+    <p class="name">{{ under.people }}, 2025</p>
+    <p class="degree">{{ under.degree }}</p>
+</div>
+{% endif %}
+{% endfor %}
+</div>
+
 ### Master Students
 
 {% assign filtered_team_master = site.pages | where_exp: "item", "item.path contains 'team/alumni/master_students/'" %}
@@ -90,27 +111,6 @@ nav_order: 4
     <img src="../pictures/{{ master.people | append: ".jpg" }}" alt="{{ master.people }}">
     <p class="name">{{ master.people }}</p>
     <p class="degree">{{ master.degree }}</p>
-</div>
-{% endif %}
-{% endfor %}
-</div>
-
-### Undergraduate Students
-
-{% assign filtered_team_under = site.pages | where_exp: "item", "item.path contains 'team/alumni/undergraduate_students/'" %}
-<div class="container">
-{% for under in filtered_team_under %}
-{% if under.website != null %}
-<a href="{{ under.website }}" class="content">
-    <img src="../pictures/{{ under.people | append: ".jpg" }}" alt="{{ under.people }}">
-    <p class="name">{{ under.people }}</p>
-    <p class="degree">{{ under.degree }}</p>
-</a>
-{% else %}
-<div class="content">
-    <img src="../pictures/{{ under.people | append: ".jpg" }}" alt="{{ under.people }}">
-    <p class="name">{{ under.people }}</p>
-    <p class="degree">{{ under.degree }}</p>
 </div>
 {% endif %}
 {% endfor %}
