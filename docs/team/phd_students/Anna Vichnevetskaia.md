@@ -1,5 +1,6 @@
 ---
 people: Anna Vichnevetskaia
+surname: Vichnevetskaia
 degree: Urban Planning & Architecture
 website: team/phd_students/Anna Vichnevetskaia
 layout: default

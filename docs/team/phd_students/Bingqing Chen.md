@@ -1,5 +1,6 @@
 ---
 people: Bingqing Chen
+surname: Chen
 degree: Research Assistant
 website: team/phd_students/Bingqing Chen
 layout: default

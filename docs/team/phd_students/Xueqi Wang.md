@@ -1,5 +1,6 @@
 ---
 people: Xueqi Wang
+surname: Wang
 degree: Computer Science and Software Engineering
 website: team/phd_students/Xueqi Wang
 layout: default
