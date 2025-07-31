@@ -1,7 +1,7 @@
 ---
-people: Zelin Jiang
-surname: Jiang
+people: Jiachen Liang
+surname: Liang
 degree: MSc Social Computing
 website: null
-year: 2024
+year: 2023
 ---

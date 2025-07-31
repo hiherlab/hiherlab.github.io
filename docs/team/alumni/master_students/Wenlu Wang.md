@@ -1,7 +1,7 @@
 ---
-people: Yuwen Li
-surname: Li
+people: Wenlu Wang
+surname: Wang
 degree: MSc Human Computer Interaction
 website: null
-year: 2023
+year: 2025
 ---
