@@ -5,10 +5,24 @@ nav_order: 3
 ---
 
 # Publications
+{: .no_toc }
+
+<details markdown="block">
+  <summary>
+    Years
+  </summary>
+{: .text-delta }
+1. TOC
+{:toc}
+</details>
 
 {% assign filtered_publications = site.pages | where_exp: "item", "item.path contains 'publications/'" | where_exp: "item", "item.year" %}
-{% assign sorted_publications = filtered_publications | sort: "year" | reverse %}
-{% for publication in sorted_publications %}
+{% assign sorted_publications = filtered_publications | sort: "title" | sort: "year" | reverse %}
+{% assign grouped_publications = sorted_publications | group_by: "year" %}
+{% for year_group in grouped_publications %}
+## {{ year_group.name }}
+{% assign publications_in_year = year_group.items | sort: "title" %}
+{% for publication in publications_in_year %}
 <div class="publication-item">
     <div class="publication-image">
         <img src="publications/pictures/{{ publication.name | replace: ".md", ".png" }}" alt="{{ publication.title }}">
@@ -32,6 +46,7 @@ nav_order: 3
     </div>
 </div>
 <hr class="publication-divider">
+{% endfor %}
 {% endfor %}
 
 <style>
@@ -103,6 +118,15 @@ nav_order: 3
         height: 1px;
         background-color: #eee;
         margin: 30px 0;
+    }
+    
+    h2 {
+        color: #333;
+        border-bottom: 2px solid #007acc;
+        padding-bottom: 10px;
+        margin-top: 40px;
+        margin-bottom: 20px;
+        font-size: 1.8rem;
     }
     
     strong {
