@@ -1,5 +1,6 @@
 ---
 people: Shuhao Zhang
+surname: Zhang
 degree: Computer Science and Software Engineering
 website: team/phd_students/Shuhao Zhang
 layout: default
