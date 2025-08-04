@@ -1,5 +1,6 @@
 ---
 people: Junyi Zhang
+surname: Zhang
 degree: Computer Science and Software Engineering
 website: team/phd_students/Junyi Zhang
 layout: default

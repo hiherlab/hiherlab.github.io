@@ -1,5 +1,6 @@
 ---
 people: Jiachen Liang
+surname: Liang
 degree: Computer Science and Software Engineering
 website: team/phd_students/Jiachen Liang
 layout: default
