@@ -124,6 +124,31 @@ nav_order: 4
 {% endfor %}
 </div>
 
+### External Mentees
+
+{% assign external_mentees = site.pages | where_exp: "item", "item.path contains 'team/alumni/external_mentees/'" | sort: "year" | reverse %}
+{% assign years = external_mentees | map: "year" | uniq | sort | reverse %}
+<div class="container">
+{% for year in years %}
+{% assign year_students = external_mentees | where: "year", year | sort: "surname" %}
+{% for student in year_students %}
+{% if student.website != null %}
+<a href="{{ student.website }}" class="content">
+    <img src="../pictures/{{ student.people | append: ".jpg" }}" alt="{{ student.people }}">
+    <p class="name">{{ student.people }}, {{ student.year }}</p>
+    <p class="school">{{ student.school }}</p>
+</a>
+{% else %}
+<div class="content">
+    <img src="../pictures/{{ student.people | append: ".jpg" }}" alt="{{ student.people }}">
+    <p class="name">{{ student.people }}, {{ student.year }}</p>
+    <p class="school">{{ student.school }}</p>
+</div>
+{% endif %}
+{% endfor %}
+{% endfor %}
+</div>
+
 <style>
     .container {
         display: flex;
@@ -146,6 +171,14 @@ nav_order: 4
          margin-bottom: 0;
    }
     .degree {
+         font-size: small;
+         margin-top: 0;
+         margin-bottom: 1px;
+        max-width: 200px;
+        word-wrap: break-word;
+        line-height: 1;
+    }
+    .school {
          font-size: small;
          margin-top: 0;
          margin-bottom: 1px;
