@@ -10,3 +10,7 @@ gem "kramdown", "~> 2.4.0" # installed by `gem jekyll`
 # gem "kramdown"        # always download the latest release
 
 gem "jekyll-polyglot"
+
+gem "csv"
+gem "base64"
+gem "bigdecimal"
