@@ -14,7 +14,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.17.2)
     ffi (1.17.2-arm64-darwin)
-    ffi (1.17.2-x64-mingw-ucrt)
+    ffi (1.17.2-x64-unknown)
     ffi (1.17.2-x86_64-darwin)
     forwardable-extended (2.6.0)
     google-protobuf (4.31.1)
@@ -99,7 +99,7 @@ GEM
 PLATFORMS
   arm64-darwin
   ruby
-  x64-mingw-ucrt
+  x64-unknown
   x86_64-darwin
 
 DEPENDENCIES
