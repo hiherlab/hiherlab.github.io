@@ -14,7 +14,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.17.2)
     ffi (1.17.2-arm64-darwin)
-    ffi (1.17.2-x64-mingw-ucrt)
+    ffi (1.17.2-x64-unknown)
     ffi (1.17.2-x86_64-darwin)
     forwardable-extended (2.6.0)
     google-protobuf (3.25.8)
@@ -78,7 +78,7 @@ GEM
       rake (>= 13.0.0)
     sass-embedded (1.69.5-arm64-darwin)
       google-protobuf (~> 3.23)
-    sass-embedded (1.69.5-x64-mingw-ucrt)
+    sass-embedded (1.69.5-x64-unknown)
       google-protobuf (~> 3.23)
     sass-embedded (1.69.5-x86_64-darwin)
       google-protobuf (~> 3.23)
@@ -90,7 +90,7 @@ GEM
 PLATFORMS
   arm64-darwin
   ruby
-  x64-mingw-ucrt
+  x64-unknown
   x86_64-darwin
 
 DEPENDENCIES
