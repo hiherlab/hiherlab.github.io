@@ -23,26 +23,26 @@ GEM
     google-protobuf (4.31.1-arm64-darwin)
       bigdecimal
       rake (>= 13)
-    google-protobuf (4.31.1-x64-mingw-ucrt)
-      bigdecimal
-      rake (>= 13)
     google-protobuf (4.31.1-x86_64-darwin)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
-    jekyll (4.3.4)
+    jekyll (4.4.1)
       addressable (~> 2.4)
+      base64 (~> 0.2)
       colorator (~> 1.0)
+      csv (~> 3.0)
       em-websocket (~> 0.5)
       i18n (~> 1.0)
       jekyll-sass-converter (>= 2.0, < 4.0)
       jekyll-watch (~> 2.0)
+      json (~> 2.6)
       kramdown (~> 2.3, >= 2.3.1)
       kramdown-parser-gfm (~> 1.0)
       liquid (~> 4.0)
-      mercenary (>= 0.3.6, < 0.5)
+      mercenary (~> 0.3, >= 0.3.6)
       pathutil (~> 0.9)
       rouge (>= 3.0, < 5.0)
       safe_yaml (~> 1.0)
@@ -58,6 +58,7 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
+    json (2.13.2)
     just-the-docs (0.10.1)
       jekyll (>= 3.8.5)
       jekyll-include-cache
@@ -87,8 +88,6 @@ GEM
       rake (>= 13)
     sass-embedded (1.90.0-arm64-darwin)
       google-protobuf (~> 4.31)
-    sass-embedded (1.90.0-x64-mingw-ucrt)
-      google-protobuf (~> 4.31)
     sass-embedded (1.90.0-x86_64-darwin)
       google-protobuf (~> 4.31)
     terminal-table (3.0.2)
@@ -106,7 +105,7 @@ DEPENDENCIES
   base64
   bigdecimal
   csv
-  jekyll (~> 4.3.4)
+  jekyll (~> 4.4.1)
   jekyll-polyglot
   just-the-docs (= 0.10.1)
   kramdown (~> 2.5.1)
