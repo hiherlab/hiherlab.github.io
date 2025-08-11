@@ -63,8 +63,8 @@ GEM
       jekyll-include-cache
       jekyll-seo-tag (>= 2.0)
       rake (>= 12.3.1)
-    kramdown (2.4.0)
-      rexml
+    kramdown (2.5.1)
+      rexml (>= 3.3.9)
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.4)
@@ -109,7 +109,7 @@ DEPENDENCIES
   jekyll (~> 4.3.4)
   jekyll-polyglot
   just-the-docs (= 0.10.1)
-  kramdown (~> 2.4.0)
+  kramdown (~> 2.5.1)
 
 BUNDLED WITH
    2.5.14
