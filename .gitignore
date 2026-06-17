@@ -14,7 +14,6 @@ _site/
 .bundle/
 vendor/
 
-.DS_Store
-docs/.DS_Store
+**/.DS_Store
 
 HER Lab.jpg
