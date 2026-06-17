@@ -22,11 +22,19 @@ nav_order: 4
 {% assign filtered_team_staff = site.pages | where_exp: "item", "item.path contains 'team/staff/'" %}
 <div class="container">
 {% for staff in filtered_team_staff %}
+{% if staff.website != null %}
 <a href="{{ staff.website }}" class="content">
     <img src="../pictures/{{ staff.people | append: ".jpg" }}" alt="{{ staff.people }}">
     <p class="name">{{ staff.people }}</p>
     <p class="degree">{{ staff.degree }}</p>
 </a>
+{% else %}
+<div class="content">
+    <img src="../pictures/{{ staff.people | append: ".jpg" }}" alt="{{ staff.people }}">
+    <p class="name">{{ staff.people }}</p>
+    <p class="degree">{{ staff.degree }}</p>
+</div>
+{% endif %}
 {% endfor %}
 </div>
 
@@ -76,11 +84,14 @@ nav_order: 4
 
 ### Undergraduate Students
 
-{% assign undergrad_alumni = site.pages | where_exp: "item", "item.path contains 'team/alumni/undergraduate_students/'" | sort: "year" | reverse %}
-{% assign years = undergrad_alumni | map: "year" | uniq | sort | reverse %}
+{% assign undergrad_alumni = site.pages | where_exp: "item", "item.path contains 'team/alumni/undergraduate_students/'" %}
+{% assign undergrad_alumni_with_year = undergrad_alumni | where_exp: "item", "item.year != 'TBD'" | sort: "year" | reverse %}
+{% assign undergrad_alumni_tbd = undergrad_alumni | where: "year", "TBD" | sort: "surname" %}
+{% assign years = undergrad_alumni_with_year | map: "year" | uniq | sort | reverse %}
 <div class="container">
 {% for year in years %}
-{% assign year_students = undergrad_alumni | where: "year", year | sort: "surname" %}
+{% if year != "TBD" %}
+{% assign year_students = undergrad_alumni_with_year | where: "year", year | sort: "surname" %}
 {% for student in year_students %}
 {% if student.website != null %}
 <a href="{{ student.website }}" class="content">
@@ -96,16 +107,34 @@ nav_order: 4
 </div>
 {% endif %}
 {% endfor %}
+{% endif %}
+{% endfor %}
+{% for student in undergrad_alumni_tbd %}
+{% if student.website != null %}
+<a href="{{ student.website }}" class="content">
+    <img src="../pictures/{{ student.people | append: ".jpg" }}" alt="{{ student.people }}">
+    <p class="name">{{ student.people }}, {{ student.year }}</p>
+    <p class="degree">{{ student.degree }}</p>
+</a>
+{% else %}
+<div class="content">
+    <img src="../pictures/{{ student.people | append: ".jpg" }}" alt="{{ student.people }}">
+    <p class="name">{{ student.people }}, {{ student.year }}</p>
+    <p class="degree">{{ student.degree }}</p>
+</div>
+{% endif %}
 {% endfor %}
 </div>
 
 ### Master Students
 
-{% assign master_alumni = site.pages | where_exp: "item", "item.path contains 'team/alumni/master_students/'" | sort: "year" | reverse %}
-{% assign years = master_alumni | map: "year" | uniq | sort | reverse %}
+{% assign master_alumni = site.pages | where_exp: "item", "item.path contains 'team/alumni/master_students/'" %}
+{% assign master_alumni_with_year = master_alumni | where_exp: "item", "item.year != 'TBD'" | sort: "year" | reverse %}
+{% assign master_alumni_tbd = master_alumni | where: "year", "TBD" | sort: "surname" %}
+{% assign years = master_alumni_with_year | map: "year" | uniq | sort | reverse %}
 <div class="container">
 {% for year in years %}
-{% assign year_students = master_alumni | where: "year", year | sort: "surname" %}
+{% assign year_students = master_alumni_with_year | where: "year", year | sort: "surname" %}
 {% for student in year_students %}
 {% if student.website != null %}
 <a href="{{ student.website }}" class="content">
@@ -121,16 +150,33 @@ nav_order: 4
 </div>
 {% endif %}
 {% endfor %}
+{% endfor %}
+{% for student in master_alumni_tbd %}
+{% if student.website != null %}
+<a href="{{ student.website }}" class="content">
+    <img src="../pictures/{{ student.people | append: ".jpg" }}" alt="{{ student.people }}">
+    <p class="name">{{ student.people }}, {{ student.year }}</p>
+    <p class="degree">{{ student.degree }}</p>
+</a>
+{% else %}
+<div class="content">
+    <img src="../pictures/{{ student.people | append: ".jpg" }}" alt="{{ student.people }}">
+    <p class="name">{{ student.people }}, {{ student.year }}</p>
+    <p class="degree">{{ student.degree }}</p>
+</div>
+{% endif %}
 {% endfor %}
 </div>
 
 ### External Mentees
 
-{% assign external_mentees = site.pages | where_exp: "item", "item.path contains 'team/alumni/external_mentees/'" | sort: "year" | reverse %}
-{% assign years = external_mentees | map: "year" | uniq | sort | reverse %}
+{% assign external_mentees = site.pages | where_exp: "item", "item.path contains 'team/alumni/external_mentees/'" %}
+{% assign external_mentees_with_year = external_mentees | where_exp: "item", "item.year != 'TBD'" | sort: "year" | reverse %}
+{% assign external_mentees_tbd = external_mentees | where: "year", "TBD" | sort: "surname" %}
+{% assign years = external_mentees_with_year | map: "year" | uniq | sort | reverse %}
 <div class="container">
 {% for year in years %}
-{% assign year_students = external_mentees | where: "year", year | sort: "surname" %}
+{% assign year_students = external_mentees_with_year | where: "year", year | sort: "surname" %}
 {% for student in year_students %}
 {% if student.website != null %}
 <a href="{{ student.website }}" class="content">
@@ -146,6 +192,21 @@ nav_order: 4
 </div>
 {% endif %}
 {% endfor %}
+{% endfor %}
+{% for student in external_mentees_tbd %}
+{% if student.website != null %}
+<a href="{{ student.website }}" class="content">
+    <img src="../pictures/{{ student.people | append: ".jpg" }}" alt="{{ student.people }}">
+    <p class="name">{{ student.people }}, {{ student.year }}</p>
+    <p class="school">{{ student.school }}</p>
+</a>
+{% else %}
+<div class="content">
+    <img src="../pictures/{{ student.people | append: ".jpg" }}" alt="{{ student.people }}">
+    <p class="name">{{ student.people }}, {{ student.year }}</p>
+    <p class="school">{{ student.school }}</p>
+</div>
+{% endif %}
 {% endfor %}
 </div>
 
