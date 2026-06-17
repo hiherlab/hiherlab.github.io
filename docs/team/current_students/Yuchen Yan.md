@@ -2,5 +2,5 @@
 people: Yuchen Yan
 surname: Yan
 degree: BEng Digital Media Technology
-website: https://chiran.top/
+website: https://blog.chiran.top/
 ---
