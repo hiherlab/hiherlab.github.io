@@ -6,7 +6,7 @@ gem "jekyll", "~> 4.4.1" # installed by `gem jekyll`
 gem "just-the-docs", "0.10.1" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
-gem "kramdown", "~> 2.5.1" # installed by `gem jekyll`
+gem "kramdown", "~> 2.5.2" # installed by `gem jekyll`
 # gem "kramdown"        # always download the latest release
 
 gem "jekyll-polyglot"
